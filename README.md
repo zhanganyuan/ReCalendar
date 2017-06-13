@@ -2,8 +2,20 @@
 爬取武大教务系统，获取成绩、课程，生成将课程一键导入系统日历的文件。
 ## 需先安装Python环境
 
-1. 运行init.bat安装需要的Python包
-2. 运行start.bat执行程序
+##打开命令行，安装一下包
+
+1. `pip install BeautifulSoup`
+
+2. `pip install icalendar`
+
+3. `pip install urllib`
+
+4. 如果提示还缺哪些包的话，就pip install 就行
+
+## cd 到当前目录并运行程序
+
+`python main.py`
+
 
 ##已修复bug
 1. 代码重构、补上了注释。
