@@ -4,7 +4,7 @@
 
 ## 打开命令行，安装一下包
 
-1. `pip install BeautifulSoup`
+1. `pip install BeautifulSoup4`
 
 2. `pip install icalendar`
 
