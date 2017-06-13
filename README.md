@@ -8,9 +8,8 @@
 
 2. `pip install icalendar`
 
-3. `pip install urllib`
+3. `pip install pillow`
 
-4. 如果提示还缺哪些包的话，就pip install 就行
 
 ## cd 到当前目录并运行程序
 
